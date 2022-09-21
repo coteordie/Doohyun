@@ -1,6 +1,7 @@
 # Week01
 ### BruteForce Algorithm
-### 2022/09/14 ~ 2022/09/21
+### 2022.09.14 ~ 2022.09.21
+---
 <div align="center">
   <table>
     <tr>
