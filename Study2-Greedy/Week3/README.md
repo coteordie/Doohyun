@@ -1,8 +1,7 @@
-# Week01
+# Week3
 ### Greedy Algorithm
-### 2022.09.21 ~ 2022.09.27
+### 2022.09.28 ~ 2022.10.05
 ---
-
 <div align="center">
   <table>
     <tr>
@@ -22,26 +21,26 @@
         백준
       </td>
       <td align="center">
-        <a href="https://www.acmicpc.net/problem/2231">
-            2231
+        <a href="https://www.acmicpc.net/problem/1541">
+            1541
         </a>
       </td>
       <td align="center">
-        분해합
+        잃어버린 괄호
       </td>
       <td align="center">
-        <sub><img src="https://user-images.githubusercontent.com/81818730/190453896-b9f4c65a-20c7-4a58-b7f1-62d9c01fae84.png"></sub>
+        <sub><img src="https://user-images.githubusercontent.com/81818730/190454006-3ba049b0-f664-4a19-bb79-99536e1ead36.png"></sub>
       </td>
       <td align="center">
-        <a href="https://github.com/coteordie/Yongmin/blob/main/Study1-BruteForce/Week01/Day01/BOJ_2231.java">
-            Day01
-        </a>
+        <a href="https://github.com/coteordie/Doohyun/blob/main/Study2-Greedy/Week3/Day9/BOJ_1541.java">
+            Day9
+         </a>
       </td>
       <td align="center">
         JAVA
       </td>
     </tr>
-     <tr>
+    <tr>
       <td align="center">
         2
       </td>
@@ -49,27 +48,26 @@
         백준
       </td>
       <td align="center">
-        <a href="https://www.acmicpc.net/problem/2798">
-            2798
+        <a href="https://www.acmicpc.net/problem/11508">
+            11508
         </a>
       </td>
       <td align="center">
-        블랙잭
+        2+1세일
       </td>
       <td align="center">
-        <sub><img src="https://user-images.githubusercontent.com/81818730/190453896-b9f4c65a-20c7-4a58-b7f1-62d9c01fae84.png"></sub>
+        <sub><img src="https://user-images.githubusercontent.com/81818730/190453924-710de7f3-0578-4a3e-8f98-dd014210eb3e.png"></sub>
       </td>
       <td align="center">
-        <a href="https://github.com/coteordie/Yongmin/blob/main/Study1-BruteForce/Week01/Day01/BOJ_2798.java">
-            Day01
-        </a>
+        <a href="https://github.com/coteordie/Doohyun/blob/main/Study2-Greedy/Week3/Day10/BOJ_11508.java">
+            Day10
+         </a>
       </td>
       <td align="center">
         JAVA
       </td>
     </tr>
-    </tr>
-     <tr>
+    <tr>
       <td align="center">
         3
       </td>
@@ -77,26 +75,26 @@
         백준
       </td>
       <td align="center">
-        <a href="https://www.acmicpc.net/problem/2438">
-            2438
+        <a href="https://www.acmicpc.net/problem/16953">
+            16953
         </a>
       </td>
       <td align="center">
-        별 찍기 - 1
+        A → B
       </td>
       <td align="center">
-        <sub><img src="https://user-images.githubusercontent.com/81818730/190453850-283c051e-2e2a-4466-8903-d451ad4282c7.png"></sub>
+        <sub><img src="https://user-images.githubusercontent.com/81818730/190454006-3ba049b0-f664-4a19-bb79-99536e1ead36.png"></sub>
       </td>
       <td align="center">
-        <a href="https://github.com/coteordie/Yongmin/blob/main/Study1-BruteForce/Week01/Day02/BOJ_2438.java">
-            Day02
+        <a href="https://github.com/coteordie/Doohyun/blob/main/Study2-Greedy/Week3/Day11/BOJ_16953.java">
+            Day11
         </a>
       </td>
       <td align="center">
         JAVA
       </td>
     </tr>
-     <tr>
+    <tr>
       <td align="center">
         4
       </td>
@@ -104,19 +102,19 @@
         백준
       </td>
       <td align="center">
-        <a href="https://www.acmicpc.net/problem/2439">
-            2439
+        <a href="https://www.acmicpc.net/problem/13164">
+            13164
         </a>
       </td>
       <td align="center">
-        별 찍기 - 2
+        행복 유치원
       </td>
       <td align="center">
-        <sub><img src="https://user-images.githubusercontent.com/81818730/190453883-4d5cb499-dd9d-4f6f-b49f-e2c3d9f96657.png"></sub>
+        <sub><img src="https://user-images.githubusercontent.com/81818730/190454021-beb785c5-29eb-434f-9dde-1f3f9132e5d9.png"></sub>
       </td>
       <td align="center">
-        <a href="https://github.com/coteordie/Yongmin/blob/main/Study1-BruteForce/Week01/Day02/BOJ_2439.java">
-            Day02
+        <a href="https://github.com/coteordie/Doohyun/blob/main/Study2-Greedy/Week3/Day12/BOJ_13164.java">
+            Day12
         </a>
       </td>
       <td align="center">
@@ -131,19 +129,19 @@
         백준
       </td>
       <td align="center">
-        <a href="https://www.acmicpc.net/problem/2440">
-            2440
+        <a href="https://www.acmicpc.net/problem/1931">
+            1931
         </a>
       </td>
       <td align="center">
-        별 찍기 - 3
+        회의실 배정
       </td>
       <td align="center">
-        <sub><img src="https://user-images.githubusercontent.com/81818730/190453883-4d5cb499-dd9d-4f6f-b49f-e2c3d9f96657.png"></sub>
+        <sub><img src="https://user-images.githubusercontent.com/81818730/190454014-9fe615b7-8213-4f9c-bbdd-b210314eafe1.png"></sub>
       </td>
       <td align="center">
-        <a href="https://github.com/coteordie/Yongmin/blob/main/Study1-BruteForce/Week01/Day02/BOJ_2440.java">
-            Day02
+        <a href="https://github.com/coteordie/Doohyun/blob/main/Study2-Greedy/Week3/Day13/BOJ_1931.java">
+            Day13
         </a>
       </td>
       <td align="center">
@@ -158,21 +156,20 @@
         백준
       </td>
       <td align="center">
-        <a href="https://www.acmicpc.net/problem/17614">
-            17614
+        <a href="https://www.acmicpc.net/problem/20365">
+            20365
         </a>
       </td>
       <td align="center">
-        369
+        블로그2
       </td>
       <td align="center">
-        <sub><img src="https://user-images.githubusercontent.com/81818730/190453889-3852a30e-37f9-4a73-8622-47247332271d.png"></sub>
+        <sub><img src="https://user-images.githubusercontent.com/81818730/190453932-9fd875e8-79ee-4d3b-8f83-616a092b7c3a.png"></sub>
       </td>
       <td align="center">
-        <a href="https://github.com/coteordie/Yongmin/blob/main/Study1-BruteForce/Week01/Day03/BOJ_17614.java">
-            Day03
+        <a href="https://github.com/coteordie/Doohyun/blob/main/Study2-Greedy/Week3/Day14/BOJ_20365.java">
+            Day14
         </a>
-      </td>
       <td align="center">
         JAVA
       </td>
