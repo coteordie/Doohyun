@@ -32,7 +32,7 @@
         <sub><img src="https://user-images.githubusercontent.com/81818730/190453883-4d5cb499-dd9d-4f6f-b49f-e2c3d9f96657.png"></sub>
       </td>
       <td align="center">
-        <a href="https://github.com/coteordie/Doohyun/blob/main/Study3-Solved_Class1/Week4/Day15/BOJ_2742.java">
+        <a href="https://github.com/coteordie/Doohyun/blob/main/Study3-SolvedClass1/Week4/Day15/BOJ_2742.java">
             Day15
         </a>
       </td>
@@ -59,7 +59,7 @@
         <sub><img src="https://user-images.githubusercontent.com/81818730/190453883-4d5cb499-dd9d-4f6f-b49f-e2c3d9f96657.png"></sub>
       </td>
       <td align="center">
-        <a href="https://github.com/coteordie/Doohyun/blob/main/Study3-Solved_Class1/Week4/Day15/BOJ_11720.java">
+        <a href="https://github.com/coteordie/Doohyun/blob/main/Study3-SolvedClass1/Week4/Day15/BOJ_11720.java">
             Day15
         </a>
       </td>
@@ -86,7 +86,7 @@
         <sub><img src="https://user-images.githubusercontent.com/81818730/190453889-3852a30e-37f9-4a73-8622-47247332271d.png"></sub>
       </td>
       <td align="center">
-        <a href="https://github.com/coteordie/Doohyun/blob/main/Study3-Solved_Class1/Week4/Day15/BOJ_2562.java">
+        <a href="https://github.com/coteordie/Doohyun/blob/main/Study3-SolvedClass1/Week4/Day15/BOJ_2562.java">
             Day15
         </a>
       </td>
@@ -113,7 +113,7 @@
         <sub><img src="https://user-images.githubusercontent.com/81818730/190453889-3852a30e-37f9-4a73-8622-47247332271d.png"></sub>
       </td>
       <td align="center">
-        <a href="https://github.com/coteordie/Doohyun/blob/main/Study3-Solved_Class1/Week4/Day16/BOJ_2884.java">
+        <a href="https://github.com/coteordie/Doohyun/blob/main/Study3-SolvedClass1/Week4/Day16/BOJ_2884.java">
             Day16
         </a>
       </td>
@@ -140,7 +140,7 @@
         <sub><img src="https://user-images.githubusercontent.com/81818730/190453889-3852a30e-37f9-4a73-8622-47247332271d.png"></sub>
       </td>
       <td align="center">
-        <a href="https://github.com/coteordie/Doohyun/blob/main/Study3-Solved_Class1/Week4/Day16/BOJ_10818.java">
+        <a href="https://github.com/coteordie/Doohyun/blob/main/Study3-SolvedClass1/Week4/Day16/BOJ_10818.java">
             Day16
         </a>
       </td>
@@ -167,7 +167,7 @@
         <sub><img src="https://user-images.githubusercontent.com/81818730/190453896-b9f4c65a-20c7-4a58-b7f1-62d9c01fae84.png"></sub>
       </td>
       <td align="center">
-        <a href="https://github.com/coteordie/Doohyun/blob/main/Study3-Solved_Class1/Week4/Day16/BOJ_1152.java">
+        <a href="https://github.com/coteordie/Doohyun/blob/main/Study3-SolvedClass1/Week4/Day16/BOJ_1152.java">
             Day16
         </a>
       </td>
@@ -194,7 +194,7 @@
         <sub><img src="https://user-images.githubusercontent.com/81818730/190453896-b9f4c65a-20c7-4a58-b7f1-62d9c01fae84.png"></sub>
       </td>
       <td align="center">
-        <a href="https://github.com/coteordie/Doohyun/blob/main/Study3-Solved_Class1/Week4/Day17/BOJ_2577.java">
+        <a href="https://github.com/coteordie/Doohyun/blob/main/Study3-SolvedClass1/Week4/Day17/BOJ_2577.java">
             Day17
         </a>
       </td>
@@ -221,7 +221,7 @@
         <sub><img src="https://user-images.githubusercontent.com/81818730/190453896-b9f4c65a-20c7-4a58-b7f1-62d9c01fae84.png"></sub>
       </td>
       <td align="center">
-        <a href="https://github.com/coteordie/Doohyun/blob/main/Study3-Solved_Class1/Week4/Day17/BOJ_2675.java">
+        <a href="https://github.com/coteordie/Doohyun/blob/main/Study3-SolvedClass1/Week4/Day17/BOJ_2675.java">
             Day17
         </a>
       </td>
@@ -248,7 +248,7 @@
         <sub><img src="https://user-images.githubusercontent.com/81818730/190453896-b9f4c65a-20c7-4a58-b7f1-62d9c01fae84.png"></sub>
       </td>
       <td align="center">
-        <a href="https://github.com/coteordie/Doohyun/blob/main/Study3-Solved_Class1/Week4/Day17/BOJ_2908.java">
+        <a href="https://github.com/coteordie/Doohyun/blob/main/Study3-SolvedClass1/Week4/Day17/BOJ_2908.java">
             Day17
         </a>
       </td>
@@ -275,7 +275,7 @@
         <sub><img src="https://user-images.githubusercontent.com/81818730/190453896-b9f4c65a-20c7-4a58-b7f1-62d9c01fae84.png"></sub>
       </td>
       <td align="center">
-        <a href="https://github.com/coteordie/Doohyun/blob/main/Study3-Solved_Class1/Week4/Day18/BOJ_2920.java">
+        <a href="https://github.com/coteordie/Doohyun/blob/main/Study3-SolvedClass1/Week4/Day18/BOJ_2920.java">
             Day18
         </a>
       </td>
@@ -302,7 +302,7 @@
         <sub><img src="https://user-images.githubusercontent.com/81818730/190453896-b9f4c65a-20c7-4a58-b7f1-62d9c01fae84.png"></sub>
       </td>
       <td align="center">
-        <a href="https://github.com/coteordie/Doohyun/blob/main/Study3-Solved_Class1/Week4/Day18/BOJ_3052.java">
+        <a href="https://github.com/coteordie/Doohyun/blob/main/Study3-SolvedClass1/Week4/Day18/BOJ_3052.java">
             Day18
         </a>
       </td>
@@ -329,7 +329,7 @@
         <sub><img src="https://user-images.githubusercontent.com/81818730/190453896-b9f4c65a-20c7-4a58-b7f1-62d9c01fae84.png"></sub>
       </td>
       <td align="center">
-        <a href="https://github.com/coteordie/Doohyun/blob/main/Study3-Solved_Class1/Week4/Day18/BOJ_8958.java">
+        <a href="https://github.com/coteordie/Doohyun/blob/main/Study3-SolvedClass1/Week4/Day18/BOJ_8958.java">
             Day18
         </a>
       </td>
@@ -356,7 +356,7 @@
         <sub><img src="https://user-images.githubusercontent.com/81818730/190453899-83f0b3c7-268c-4609-95f5-bef98c69f0b4.png"></sub>
       </td>
       <td align="center">
-        <a href="https://github.com/coteordie/Doohyun/blob/main/Study3-Solved_Class1/Week4/Day19/BOJ_1157.java">
+        <a href="https://github.com/coteordie/Doohyun/blob/main/Study3-SolvedClass1/Week4/Day19/BOJ_1157.java">
             Day19
         </a>
       </td>
@@ -383,7 +383,7 @@
         <sub><img src="https://user-images.githubusercontent.com/81818730/190453899-83f0b3c7-268c-4609-95f5-bef98c69f0b4.png"></sub>
       </td>
       <td align="center">
-        <a href="https://github.com/coteordie/Doohyun/blob/main/Study3-Solved_Class1/Week4/Day19/BOJ_1546.java">
+        <a href="https://github.com/coteordie/Doohyun/blob/main/Study3-SolvedClass1/Week4/Day19/BOJ_1546.java">
             Day19
         </a>
       </td>
