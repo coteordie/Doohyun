@@ -34,7 +34,6 @@
       <td align="center">
         <a href="https://github.com/coteordie/Doohyun/blob/main/Study3-SorvledClass1/Week4/Day15/BOJ_2742.java">
             Day15
-            
         </a>
       </td>
       <td align="center">
