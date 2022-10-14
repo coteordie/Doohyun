@@ -32,7 +32,7 @@
         <sub><img src="https://user-images.githubusercontent.com/81818730/190453883-4d5cb499-dd9d-4f6f-b49f-e2c3d9f96657.png"></sub>
       </td>
       <td align="center">
-        <a href="https://github.com/coteordie/Doohyun/blob/main/Study3-SorvledClass1/Week4/Day15/BOJ_2742.java">
+        <a href="https://github.com/coteordie/Doohyun/blob/main/Study3-SolvedClass1/Week4/Day15/BOJ_2742.java">
             Day15
         </a>
       </td>
